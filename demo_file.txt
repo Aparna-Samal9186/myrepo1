@@ -1,2 +1,3 @@
 demo file
 dummy changes
+new change
